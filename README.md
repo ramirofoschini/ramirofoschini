@@ -1,5 +1,5 @@
-<h1 align="center">Hola! me llamo Ramiro Foschini</h1>
-<h3 align="center">Soy desarrollador fullstack JAVA, orientado al desarrollo web y de apis</h3>
+<h1 align="center">¡Hola! me llamo Ramiro</h1>
+<h2 align="center">Soy desarrollador JAVA, orientado al desarrollo web y de apis</h2>
 
 - 🌱 Estoy aprendiendo **Javascript, react y mongodb**
 
