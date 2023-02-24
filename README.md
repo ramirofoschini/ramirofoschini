@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! me llamo Ramiro</h1>
 <h2 align="center">Soy desarrollador JAVA y SPRING</h2>
 
-- 🌱 Estoy aprendiendo **Javascript, react y mongodb**
+- 🌱 Me estoy perfeccionando en  **Angular**
 
 - 📫 Podés contactarte conmigo escribiendo a **foschiniramiro@gmail.com**
 
