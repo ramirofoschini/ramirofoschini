@@ -1,8 +1,11 @@
 <h1 align="center">¡Hola! me llamo Ramiro</h1>
 <h2 align="center">Soy desarrollador JAVA y SPRING</h2>
 
-- 🌱 Me estoy perfeccionando en  **Angular**
-
+- 🌱 Estudio Lic. en Sistemas en la UNLP. 
+- 🌱 Desarrollo principalmente APIs con Java y Spring pero también manejo herramientas de Frontend
+- 🌱 HTML, CSS, JSP, Bootstrap y JS. Me estoy adentrando en  **Angular**
+- 🌱 Otras herramientas y tecnologías: Postman, Swagger, JMeter, Hibernate, MySQL
+- 
 - 📫 Podés contactarte conmigo escribiendo a **foschiniramiro@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
