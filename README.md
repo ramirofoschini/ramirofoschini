@@ -2,8 +2,8 @@
 <h2 align="center">Soy desarrollador JAVA y SPRING</h2>
 
 - 🌱 Estudio Lic. en Sistemas en la UNLP. 
-- 🌱 Desarrollo principalmente APIs con Java y Spring pero también manejo herramientas de Frontend
-- 🌱 HTML, CSS, JSP, Bootstrap y JS. Me estoy adentrando en  **Angular**
+- 🌱 Desarrollo de APIs y microservicios con Java y Spring
+- 🌱 HTML, CSS, JSP, Bootstrap, JS, Angular, PHP, Laravel/Lumen
 - 🌱 Otras herramientas y tecnologías: Postman, Swagger, JMeter, Hibernate, MySQL
 - 
 - 📫 Podés contactarte conmigo escribiendo a **foschiniramiro@gmail.com**
