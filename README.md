@@ -1,29 +1,29 @@
-<h1 align="center">Hola 👋, soy Ramiro Foschini</h1>
+<h1 align="center">Hi 👋, I'm Ramiro Foschini</h1>
 <h3 align="center">Java Backend Developer | Spring Boot & Microservices</h3>
 
 <p align="center">
-Desarrollador backend especializado en microservicios, APIs REST y arquitecturas escalables con Java y Spring.
+Backend developer focused on scalable microservices, REST APIs and high-concurrency architectures using Java and Spring.
 </p>
 
 ---
 
-## 🚀 Sobre mí
+## 🚀 About Me
 
-- 💻 Desarrollo de microservicios BFF y APIs REST con Java 21+ y Spring Boot
-- 🌎 Experiencia trabajando en entornos multi-país e integraciones corporativas
-- ⚡ Especializado en arquitecturas backend escalables y de alta concurrencia
-- 🔐 Experiencia con Spring Security, JWT y validación de usuarios
-- 🧩 Integración de APIs externas (AFIP, generación de QR, boletas electrónicas)
-- 📈 Mejora de calidad de código mediante SonarQube y Checkstyle
-- 🧠 Experiencia en desarrollo reactivo con Spring WebFlux
-- 🗄️ Modelado y persistencia con JPA, Hibernate y Liquibase
-- 📨 Experiencia trabajando con Kafka y mensajería distribuida
-- 🤖 Desarrollo asistido con agentes de IA como Claude Code y Codex
-- 🎓 Estudiante de Licenciatura en Sistemas — UNLP
+- 💻 Building BFF microservices and REST APIs with Java 21+ and Spring Boot
+- 🌎 Experience working on multi-country financial environments and enterprise integrations
+- ⚡ Focused on scalable and high-performance backend architectures
+- 🔐 Experience with Spring Security, JWT authentication and user validation
+- 🧩 Integration with external APIs and financial services
+- 📈 Code quality improvement using SonarQube and Checkstyle
+- 🧠 Experience with reactive programming using Spring WebFlux
+- 🗄️ Strong experience with JPA, Hibernate and Liquibase
+- 📨 Experience working with Kafka and distributed messaging systems
+- 🤖 AI-assisted development using Claude Code and Codex
+- 🎓 Information Systems student at UNLP
 
 ---
 
-## 🛠️ Stack tecnológico
+## 🛠️ Tech Stack
 
 ### Backend
 <p>
@@ -35,7 +35,7 @@ Desarrollador backend especializado en microservicios, APIs REST y arquitecturas
   <img src="https://skillicons.dev/icons?i=html,css,js,angular,bootstrap" />
 </p>
 
-### Herramientas & DevOps
+### Tools & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=git,gitlab,postman,idea" />
 </p>
@@ -56,7 +56,27 @@ Desarrollador backend especializado en microservicios, APIs REST y arquitecturas
 
 ---
 
-## 📫 Contacto
+## 💼 Experience
+
+### Java Developer — Pago Virtual del Sur
+📅 May 2024 - Present
+
+- Development of internal APIs and microservices
+- Integration with external financial services and APIs
+- Reactive architectures with Spring WebFlux
+- Code quality and maintainability improvements
+- Agile development with Scrum methodologies
+
+### Java Developer — Sistemas Activos SRL / BBVA
+📅 Feb 2023 - May 2024
+
+- Maintenance and development of enterprise Java applications
+- Backend development with Java and Spring
+- Participation in financial monitoring and anti-money laundering systems
+
+---
+
+## 📫 Contact
 
 <p align="left">
 <a href="https://linkedin.com/in/ramirofoschini" target="_blank">
@@ -65,3 +85,5 @@ Desarrollador backend especializado en microservicios, APIs REST y arquitecturas
 </p>
 
 📧 **foschiniramiro@gmail.com**
+
+---
